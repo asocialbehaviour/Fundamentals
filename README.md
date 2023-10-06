@@ -1,3 +1,3 @@
 # Fundamentals
 Homework 
-This is the homeworks from my Fundamentals with Python course.
+This are my homeworks from the course Fundamentals with Python.
